@@ -1,0 +1,11 @@
+TIMESTAMP = 1693528419
+SHA256 (go/security_xray-core/xtls-Xray-core-v1.7.5_GH0/geoip.dat) = 536d7aa9f54af747153d4f982adaa3181025dd72faaba8f532b3f514b467eff8
+SIZE (go/security_xray-core/xtls-Xray-core-v1.7.5_GH0/geoip.dat) = 10591274
+SHA256 (go/security_xray-core/xtls-Xray-core-v1.7.5_GH0/dlc.dat) = 231a6fb4915f7652ad9b2027965fbbb27435ffa9b3a0734ad2b69693e95d6604
+SIZE (go/security_xray-core/xtls-Xray-core-v1.7.5_GH0/dlc.dat) = 1594785
+SHA256 (go/security_xray-core/xtls-Xray-core-v1.7.5_GH0/v1.7.5.mod) = 6d45a243922836e2422095192b0bd4948745147aef4cfc7883d440307bfbde1b
+SIZE (go/security_xray-core/xtls-Xray-core-v1.7.5_GH0/v1.7.5.mod) = 2480
+SHA256 (go/security_xray-core/xtls-Xray-core-v1.7.5_GH0/v1.7.5.zip) = e2c2338ce24ba15d9f7cc93686e06e1fb15a33a345e5fa5d4f28a345dffb9014
+SIZE (go/security_xray-core/xtls-Xray-core-v1.7.5_GH0/v1.7.5.zip) = 970336
+SHA256 (go/security_xray-core/xtls-Xray-core-v1.7.5_GH0/xtls-Xray-core-v1.7.5_GH0.tar.gz) = a5fc936136a57a463bf9a895d068fdfa895b168ae6093c58a10208e098b6b2d3
+SIZE (go/security_xray-core/xtls-Xray-core-v1.7.5_GH0/xtls-Xray-core-v1.7.5_GH0.tar.gz) = 579098
